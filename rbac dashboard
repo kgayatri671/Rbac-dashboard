@@ -1,0 +1,17 @@
+rbac-dashboard/
+│
+├── public/                (Contains static files)
+│   └── index.html         (Main HTML file)
+│
+├── src/                   (Contains source code)
+│   ├── assets/            (Images, icons, etc.)
+│   ├── components/        (Reusable React components)
+│   ├── pages/             (Pages like Dashboard, User Management)
+│   ├── services/          (API calls, Axios setup)
+│   ├── store/             (Redux or Context API if needed)
+│   ├── App.js             (Main app component)
+│   └── index.js           (Entry point of the application)
+│
+├── .gitignore             (Files/folders to ignore by Git)
+├── package.json           (Project configuration)
+└── README.md              (Project documentation)
